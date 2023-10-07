@@ -1,4 +1,4 @@
-# Logistic regression on IMDB Movies Plot Summary to predict Genre
+# Logistic regression on IMDB Movies plot summaries to predict Genre
 "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan." This is the plot summary of the 2019 movie 'Parasite' directed by Bong Joon Hu.
 Do you think this is a Comedy? an Adventure? a Thriller? 
 
